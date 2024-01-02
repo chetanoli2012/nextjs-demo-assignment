@@ -1,0 +1,17 @@
+.todosContainer {
+  margin: 20px;
+}
+
+.todosList {
+  list-style: none;
+  padding: 0;
+}
+
+.todoItem {
+  margin-bottom: 12px;
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #fff;
+  transition: background-color 0.3s ease;
+}

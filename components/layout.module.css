@@ -1,0 +1,26 @@
+.container {
+  max-width: 36rem;
+  padding: 0 1rem;
+  margin: 3rem auto 6rem;
+}
+
+.backToHome {
+  margin: 3rem 0 0;
+}
+.backToHomeLink:hover {
+  color: blue;
+}
+
+.navListContainer {
+  list-style: none;
+  padding: 12px;
+}
+
+.navList {
+  margin-right: 10px;
+  padding: 12px;
+}
+
+.navLink:hover {
+  color: blue;
+}

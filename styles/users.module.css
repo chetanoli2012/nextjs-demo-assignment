@@ -1,0 +1,15 @@
+.usersContainer {
+  margin: 20px;
+}
+
+.usersList {
+  list-style: none;
+  padding: 0;
+}
+
+.usersList li {
+  margin-bottom: 8px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  background-color: #f9f9f9;
+}

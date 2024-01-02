@@ -1,0 +1,21 @@
+.postsContainer {
+  margin: 20px;
+}
+
+.postsList {
+  list-style: none;
+  padding: 0;
+}
+
+.postItem {
+  margin-bottom: 12px;
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  background-color: #fff;
+  transition: background-color 0.3s ease;
+}
+
+.postItem:hover {
+  background-color: #f5f5f5;
+}
